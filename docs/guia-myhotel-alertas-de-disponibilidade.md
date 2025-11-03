@@ -8,6 +8,8 @@ slug: /guia-myhotel-alertas-de-disponibilidade
 
 # Alertas de Disponibilidade
 
+![imagem-0](/assets/guia-myhotel-alertas-de-disponibilidade/imagem-0.webp)
+
 Neste guia, você vai aprender a configurar e editar alertas de disponibilidade.
 
 ## Como chegar?
@@ -16,7 +18,7 @@ O caminho para acessar a aba de 'Alertas de Disponibilidade' é:
 
 **Menu de Navegação > Gestão > Tarifários e Disponibilidade > Alertas de Disponibilidade:**
 
-![imagem-0](/assets/guia-myhotel-alertas-de-disponibilidade/imagem-0.webp)
+![imagem-1](/assets/guia-myhotel-alertas-de-disponibilidade/imagem-1.webp)
 
 Os **'Alertas de Disponibilidade'** permitem que os hotéis que não têm a conexão de atualização de inventário do PMS (Sistema de Gerenciamento do Hotel) conectada à Omnibees possam controlar a quantidade de quartos disponíveis no myhotel.omnibees com maior facilidade.
 
@@ -26,20 +28,18 @@ Nesta aba, será possível configurar uma **‘notificação’**, na qual o sis
 
 Ao clicar em **'Adicionar Tipos de Quartos'**, será preciso selecionar os quartos nos quais deseja configurar os 'alertas de disponibilidade' e clicar em 'Ok':
 
-![imagem-1](/assets/guia-myhotel-alertas-de-disponibilidade/imagem-1.webp)
+![imagem-2](/assets/guia-myhotel-alertas-de-disponibilidade/imagem-2.webp)
 
 Depois, será possível configurar o '*envio da notificação*' ou a aplicação do '*fecho de vendas*' para os tipos de quartos selecionados:
 
-![imagem-2](/assets/guia-myhotel-alertas-de-disponibilidade/imagem-2.webp)
+![imagem-3](/assets/guia-myhotel-alertas-de-disponibilidade/imagem-3.webp)
 
 Para isso, será preciso selecionar a ação desejada e informar o 'número de quartos disponíveis':
-
-![imagem-3](/assets/guia-myhotel-alertas-de-disponibilidade/imagem-3.webp)
 
 ![imagem-4](/assets/guia-myhotel-alertas-de-disponibilidade/imagem-4.webp)
 
 -   **‘Notifique-me quando o número de quartos disponíveis for menor que [ ]’:** o sistema irá enviar um 'e-mail de notificação' para o hotel quando a disponibilidade do quarto estiver abaixo do 'número de quartos disponíveis' informado.
--   **‘Fechar vendas quando o número de quartos disponíveis for menor que [ ]’:** o sistema irá aplicar o fecho de vendas para o quarto quando o 'número de quartos disponíveis' for menor do que o informado.
+-   **‘Fechar vendas quando o número de quartos disponíveis for menor que [ ]’:** o sistema irá aplicar o fecho de vendas para o quarto, quando o 'número de quartos disponíveis' for menor do que o informado.
     -   **Incluir BE no fecho vendas:** ao selecionar esta opção, o sistema aplicará o fecho de vendas não apenas nos canais padrão, mas também no canal Booking Engine (BE) - BeeDirect Motor de Reservas, quando o 'número de quartos disponíveis' for menor que o valor informado.
 
 ## IMPORTANTE SABER
@@ -49,7 +49,7 @@ Para isso, será preciso selecionar a ação desejada e informar o 'número de q
 
 ## Mais Opções:
 
-Na aba 'Mais Opções', **configure os e-mails e escreva um assunto**:
+Na aba 'Mais Opções', **'Configure e-mails e escreva um assunto'**:
 
 ![imagem-5](/assets/guia-myhotel-alertas-de-disponibilidade/imagem-5.webp)
 
