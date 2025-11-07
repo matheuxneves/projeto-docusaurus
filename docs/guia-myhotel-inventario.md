@@ -1,10 +1,9 @@
-```yaml
-
+---
 sidebar_label: TARIFÁRIOS E DISPONIBILIDADE
 title: TARIFÁRIOS E DISPONIBILIDADE
 description: Guia rápido sobre tarifários e disponibilidade para gestão eficiente do inventário hoteleiro.
 slug: /guia-myhotel-inventario
-
+---
 # TARIFÁRIOS E DISPONIBILIDADE
 
 ## INVENTÁRIO
@@ -17,11 +16,6 @@ slug: /guia-myhotel-inventario
 
 TARIFÁRIOS E DISPONIBILIDADE
 INVENTÁRIO
-
-
-
-
-
 
 TARIFÁRIOS E DISPONIBILIDADE
 INVENTÁRIO
@@ -270,4 +264,3 @@ INVENTÁRIO
 ### 15
 
 ![imagem-57](/assets/guia-myhotel-inventario/imagem-57.webp)
-```
