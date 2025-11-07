@@ -1,7 +1,7 @@
 ---
 sidebar_label: TARIFÁRIOS E DISPONIBILIDADE
 title: TARIFÁRIOS E DISPONIBILIDADE
-description: Guia rápido sobre tarifários e disponibilidade para gestão eficiente do inventário hoteleiro.
+description: Guia rápido para entender e gerenciar tarifários e disponibilidade no inventário hoteleiro.
 slug: /guia-myhotel-inventario
 ---
 # TARIFÁRIOS E DISPONIBILIDADE
