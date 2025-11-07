@@ -15,7 +15,7 @@ slug: /guia-myhotel-inventario
 
 ### IMPORTANTE SABER:
 
-AS ATUALIZAÇÕES REALIZADAS NESTA ABA PODERÃO AFETAR DIRETAMENTE O SEU CONTROLE DE DISPONIBILIDADE E A INTEGRAÇÃO COM O PMS (PROPERTY MANAGEMENT SYSTEM / SISTEMA DE GERENCIAMENTO DA PROPRIEDADE). PORTANTO, CASO TENHA ALGUMA DÚVIDA SOBRE O USO DESTA ABA, CONSULTE A NOSSA EQUIPE DE ESPECIALISTAS ANTES DE FAZER QUALQUER ALTERAÇÃO.
+As atualizações realizadas nesta aba poderão afetar diretamente o seu controle de disponibilidade e a integração com o PMS (Property Management System / Sistema de Gerenciamento da Propriedade). Portanto, caso tenha alguma dúvida sobre o uso desta aba, consulte a nossa equipe de especialistas antes de fazer qualquer alteração.
 
 ### Como chegar?
 
